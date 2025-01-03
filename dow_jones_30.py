@@ -2,7 +2,7 @@
 Title: Dow Jones 30: Historical Analysis and Performance Metrics
 Author: Nagarjunan Saravanan
 Date: 10-12-2024
-Output: Line
+Output: Separate line plots for Open, Close, High, Low, and Volume metrics of Dow Jones 30 stocks, along with data tables for average closing prices, cumulative returns, volatility, and average volume.
 '''
 
 import yfinance as yf
